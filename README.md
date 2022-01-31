@@ -8,4 +8,5 @@
 ## Links Úteis
 
 [Guia Markedown](https://www.markdownguide.org/)
+</br>
 [Guia Git](https://git-scm.com/docs/gittutorial)
